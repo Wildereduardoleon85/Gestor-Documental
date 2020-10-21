@@ -1,0 +1,98 @@
+[
+    {
+        "rut": "11111111-1",
+        "nombres": "Adolfo Ernesto", 
+        "apellidos": "Romero Sanchez",
+        "documentos":{
+             "documento1": "data/1/Datos 7.pdf",
+             "documento2": "data/1/Documento 4.pdf"
+        }
+    },
+    {
+        "rut": "11111111-2",
+        "nombres": "Gabriel Adolfo", 
+        "apellidos": "Chacin Gomez",
+        "documentos": {
+             "documento1": "data/2/Articulo 62.pdf",
+             "documento2": "data/2/Cuentas 1.pdf",
+             "documento3": "data/2/Datos 7.pdf",
+             "documento4": "data/2/Documento 1.pdf"
+        }
+    },
+    {
+        "rut": "11111111-3",
+        "nombres": "Antonio Jesus", 
+        "apellidos": "Duarte Alvarez",
+        "documentos": {
+            "documento1": "data/3/Datos 7.pdf",
+            "documento2": "data/3/Documento 1.pdf",
+            "documento3": "data/3/Documento 85.pdf",
+            "documento4": "data/3/Documento2.pdf"
+        }
+    },
+    {
+        "rut": "11111111-4",
+        "nombres": "Mario José", 
+        "apellidos": "Ramírez Montero",
+        "documentos": {
+            "documento1": "data/4/Cuentas1.pdf",
+            "documento2": "data/4/Datos 7.pdf",
+            "documento3": "data/4/Documento 1.pdf",
+            "documento4": "data/4/Documento 4.pdf"
+        }
+    },
+    {
+        "rut": "11111111-5",
+        "nombres": "Jeús Antonio", 
+        "apellidos": "Juárez Ramírez",
+        "documentos": {
+            "documento1": "data/5/Documento 1.pdf",
+            "documento2": "data/5/Documento 85.pdf",
+            "documento3": "data/5/Documento2.pdf"
+        }
+    },
+    {
+        "rut": "11111111-6",
+        "nombres": "Juan Alberto", 
+        "apellidos": "Hidalgo Henríquez",
+        "documentos": {
+            "documento1": "data/6/Datos 7.pdf",
+            "documento2": "data/6/Documento 1.pdf",
+            "documento3": "data/6/Documento 4.pdf",
+            "documento4": "data/6/Documento 85.pdf",
+            "documento5": "data/6/Documento2.pdf"
+        }
+    },
+    {
+        "rut": "11111111-7",
+        "nombres": "Bertha Antonieta", 
+        "apellidos": "Alvarado",
+        "documentos": {
+            "documento1": "data/7/Datos 7.pdf",
+            "documento2": "data/7/Documento 1.pdf",
+            "documento3": "data/7/Documento 4.pdf"
+        }
+    },
+    {
+        "rut": "11111111-8",
+        "nombres": "María Carolina", 
+        "apellidos": "Gómez Iriarte",
+        "documentos": {
+            "documento1": "data/8/Articulo 62.pdf",
+            "documento2": "data/8/Cuentas 1.pdf",
+            "documento3": "data/8/Datos 7.pdf",
+            "documento4": "data/8/Documento 1.pdf"
+        }
+    },
+    {
+        "rut": "11111111-9",
+        "nombres": "Patricia Roberta", 
+        "apellidos": "Madriz González",
+        "documentos": {
+            "documento1": "data/9/Documento 4.pdf",
+            "documento2": "data/9/Documento 85.pdf",
+            "documento3": "data/9/Documento2.pdf"
+        }
+    }
+
+]
