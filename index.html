@@ -12,16 +12,24 @@
     <header>
         <h1>Gestor Documental</h1>
 
-        <form id="formulario" class="formulario">
-            <input id="busqueda" type="text" required>
-            <label class="label">
-                <span id="titulo" class="text-nomb">Ingrese Rut</span>
-            </label>
-        </form>
+        <div>
+            <form id="formulario" class="formulario">
+                <input id="busqueda" type="text" required>
+                <label class="label">
+                    <span id="titulo" class="text-nomb">Ingrese Rut</span>
+                </label>
+                <button type="submit"><i class="fas fa-search"></i></button>
+            </form>
+            
+        </div>
 
         <div id="validacion" class="validacion">
             <i class="fas fa-exclamation-triangle"></i>
             El rut ingresado no es válido!!
+        </div>
+
+        <div id="datos_cliente" class="datos_cliente">
+            <h3>Cliente: </h3><p id="cliente" class="cliente"></p>
         </div>
     </header>
 

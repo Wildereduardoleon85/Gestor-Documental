@@ -28,6 +28,22 @@ header{
     margin-right: auto;
 }
 
+.formulario button{
+    background: none;
+    border: none;
+    color: black;
+    position: absolute;
+    left: 160px;
+    bottom: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    color:#1A281F;
+}
+
+.formulario button:hover{
+    color: #D95D39;
+}
+
 .formulario input{
     width: 100%;
     height: 100%;
@@ -86,6 +102,15 @@ header{
     margin-top: 10px;
     color: #D95D39;
     visibility: hidden;
+}
+
+.datos_cliente{
+    margin-top: 10px;
+}
+
+.datos_cliente .cliente{
+    margin-top: 10px;
+    color: #D95D39;
 }
 
 
